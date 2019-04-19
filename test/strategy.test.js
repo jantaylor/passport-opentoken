@@ -39,8 +39,8 @@ describe('Strategy', function () {
   });
 
   describe('handling a request', function() {
-    var testToken = 'T1RLAQLVVgI6nfAXif1wYQz-4Hoqqjpk-RCRhrYo_A3vfozy8DwQgX_iAAAgXtSyTiGFVbQGmJ7-USFFjaZYuPueXSr8Gl2W5APuFWw*'
-    var testSubject = 'foobar'
+    var testToken = 'T1RLAQLVVgI6nfAXif1wYQz-4Hoqqjpk-RCRhrYo_A3vfozy8DwQgX_iAAAgXtSyTiGFVbQGmJ7-USFFjaZYuPueXSr8Gl2W5APuFWw*';
+    var testSubject = 'foobar';
 
     it('should call success with body param', function(done) {
       chai.passport.use(strategy)

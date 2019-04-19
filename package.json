@@ -1,5 +1,5 @@
 {
-  "name": "passport-opentoken",
+  "name": "jantaylor/passport-opentoken",
   "version": "1.0.0",
   "description": "Passport strategy for authenticating with PingFederate using the OpenToken API",
   "main": "./lib/passport-opentoken",
@@ -9,7 +9,8 @@
   },
   "author": "Darren DeRidder",
   "contributors": [
-    "Jan Taylor <jantaylor@users.noreply.github.com>"
+    "Jan Taylor <jantaylor@users.noreply.github.com>",
+    "ksmithut <ksmithut@users.noreply.github.com"
   ],
   "license": "ISC",
   "dependencies": {
