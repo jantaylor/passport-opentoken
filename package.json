@@ -8,25 +8,28 @@
     "lint": "jshint lib examples"
   },
   "author": "Darren DeRidder",
+  "contributors": [
+    "Jan Taylor <jantaylor@users.noreply.github.com>"
+  ],
   "license": "ISC",
   "dependencies": {
-    "opentoken": "^1.0.11",
+    "opentoken": "^1.0.12",
     "passport-strategy": "^1.0.0",
     "pkginfo": "^0.4.1"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
+    "chai": "^4.2.0",
     "chai-passport-strategy": "^1.0.1",
-    "express": "^4.9.6",
-    "jshint": "^2.9.5",
-    "mocha": "^5.2.0"
+    "express": "^4.16.4",
+    "jshint": "^2.10.2",
+    "mocha": "^6.1.4"
   },
   "directories": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/73rhodes/passport-opentoken.git"
+    "url": "https://github.com/jantaylor/passport-opentoken.git"
   },
   "keywords": [
     "passport",
@@ -34,7 +37,7 @@
     "opentoken"
   ],
   "bugs": {
-    "url": "https://github.com/73rhodes/passport-opentoken/issues"
+    "url": "https://github.com/jantaylor/passport-opentoken/issues"
   },
-  "homepage": "https://github.com/73rhodes/passport-opentoken"
+  "homepage": "https://github.com/jantaylor/passport-opentoken"
 }

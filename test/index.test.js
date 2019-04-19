@@ -1,5 +1,5 @@
 /*global describe, it, expect */
-var chai     = require('chai');
+var chai = require('chai');
 var strategy = require('..');
 
 chai.use(require('chai-passport-strategy'));
