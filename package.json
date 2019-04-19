@@ -14,7 +14,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "opentoken": "^1.0.12",
+    "@jantaylor/opentoken": "^1.1.0",
     "passport-strategy": "^1.0.0",
     "pkginfo": "^0.4.1"
   },
